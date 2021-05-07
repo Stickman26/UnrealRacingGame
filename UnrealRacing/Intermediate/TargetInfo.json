@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealRacing",
+			"Path": "X:\\Repo\\Console\\UnrealRacingGame\\UnrealRacing\\Source\\UnrealRacing.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealRacingEditor",
+			"Path": "X:\\Repo\\Console\\UnrealRacingGame\\UnrealRacing\\Source\\UnrealRacingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,3 @@
+X:\Repo\Console\UnrealRacingGame\UnrealRacing\Intermediate\Build\Win64\UE4Editor\Development\UnrealRacing\Definitions.UnrealRacing.h
+X:\Repo\Console\UnrealRacingGame\UnrealRacing\Source\UnrealRacing\RacerPawn.h
+X:\Repo\Console\UnrealRacingGame\UnrealRacing\Intermediate\Build\Win64\UE4Editor\Inc\UnrealRacing\RacerPawn.generated.h

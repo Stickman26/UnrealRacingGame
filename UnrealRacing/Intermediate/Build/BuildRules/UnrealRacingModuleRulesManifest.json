@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"X:\\Repo\\Console\\UnrealRacingGame\\UnrealRacing\\Source\\UnrealRacing\\UnrealRacing.Build.cs",
+		"X:\\Repo\\Console\\UnrealRacingGame\\UnrealRacing\\Source\\UnrealRacing.Target.cs",
+		"X:\\Repo\\Console\\UnrealRacingGame\\UnrealRacing\\Source\\UnrealRacingEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.0"
+}

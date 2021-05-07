@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealRacing.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{401A0750-AB1B-4527-A67F-56AAFF2A56EF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealRacing.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealRacingEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DC064025-9ACD-44CA-B338-96C0D890B87E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealRacing">
+      <UniqueIdentifier>{BF7B6D9E-21FE-40D0-BB4E-23A1BDFA9239}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealRacing\RacerPawn.cpp">
+      <Filter>Source\UnrealRacing</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealRacing\RacerPawn.h">
+      <Filter>Source\UnrealRacing</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UnrealRacing\UnrealRacing.Build.cs">
+      <Filter>Source\UnrealRacing</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealRacing\UnrealRacing.cpp">
+      <Filter>Source\UnrealRacing</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealRacing\UnrealRacing.h">
+      <Filter>Source\UnrealRacing</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
